@@ -1,0 +1,40 @@
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\BOLCarRent\bin\Debug\BOLCarRent.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\BOLCarRent\bin\Debug\BOLCarRent.pdb
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\BOLCarRent\obj\Debug\BOLCarRent.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\BOLCarRent\obj\Debug\BOLCarRent.pdb
+H:\onWork\CarRent\BOLCarRent\bin\Debug\BOLCarRent.dll
+H:\onWork\CarRent\BOLCarRent\bin\Debug\BOLCarRent.pdb
+H:\onWork\CarRent\BOLCarRent\obj\Debug\BOLCarRent.csprojResolveAssemblyReference.cache
+H:\onWork\CarRent\BOLCarRent\obj\Debug\BOLCarRent.dll
+H:\onWork\CarRent\BOLCarRent\obj\Debug\BOLCarRent.pdb
+H:\onWork\CarRent\BOLCarRent\bin\Debug\DataCarRent.mdf
+H:\onWork\CarRent\BOLCarRent\bin\Debug\DataCarRent_log.ldf
+H:\onWork\CarRent\BOLCarRent\bin\Debug\DBCarRent.dll
+H:\onWork\CarRent\BOLCarRent\bin\Debug\EntityFramework.dll
+H:\onWork\CarRent\BOLCarRent\bin\Debug\DBCarRent.pdb
+H:\onWork\CarRent\BOLCarRent\bin\Debug\DBCarRent.dll.config
+H:\onWork\CarRent\BOLCarRent\bin\Debug\EntityFramework.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DataCarRent.mdf
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DataCarRent_log.ldf
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\BOLCarRent.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\BOLCarRent.pdb
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DBCarRent.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\EntityFramework.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DBCarRent.pdb
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DBCarRent.dll.config
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\EntityFramework.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\obj\Debug\BOLCarRent.csprojResolveAssemblyReference.cache
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\obj\Debug\BOLCarRent.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\BOLCarRent\obj\Debug\BOLCarRent.pdb
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DataCarRent.mdf
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DataCarRent_log.ldf
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\BOLCarRent.dll
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\BOLCarRent.pdb
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DBCarRent.dll
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\EntityFramework.dll
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DBCarRent.pdb
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\DBCarRent.dll.config
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\bin\Debug\EntityFramework.xml
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\obj\Debug\BOLCarRent.csprojResolveAssemblyReference.cache
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\obj\Debug\BOLCarRent.dll
+H:\onWork\CarRent_1.6\CarRent\BOLCarRent\obj\Debug\BOLCarRent.pdb

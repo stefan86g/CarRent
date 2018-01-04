@@ -1,0 +1,95 @@
+﻿<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Website CSS style -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Website Font style -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+    <link href="Styles/RegistrationStyle.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <div class="cont">
+        <div class="row main">
+            <div class="main-login main-center">
+                
+                <form class="form-horizontal">
+
+                    <div class="form-group">
+                        <label for="name" class="cols-sm-2 control-label">Your Name</label>
+                        <div class="cols-sm-10">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
+                                <input type="text" ng-model="userName" class="form-control" name="name" id="name" placeholder="Enter your UserName" required/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="password" class="cols-sm-2 control-label">Password</label>
+                        <div class="cols-sm-10">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
+                                <input type="password" ng-model="password" class="form-control" name="password" id="password" placeholder="Enter your Password" required />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="fullname" class="cols-sm-2 control-label">Username</label>
+                        <div class="cols-sm-10">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
+                                <input type="text" ng-model="fullname" class="form-control" name="fullname" id="fullname" placeholder="Enter your Full Name" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="email" class="cols-sm-2 control-label">Your Email</label>
+                        <div class="cols-sm-10">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
+                                <input type="text" ng-model="email" class="form-control" name="email" id="email" placeholder="Enter your Email" required/>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="sex" class="cols-sm-2 control-label">Sex</label>
+                        <div class="cols-sm-10">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
+                                <select ng-model="sex" class="form-control" id="exampleFormControlSelect1" >
+                                    <option  value="" disabled selected>Select your Gender</option>
+                                    <option>Male</option>
+                                    <option>Female</option>
+                                </select>
+                              </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="passport" class="cols-sm-2 control-label">Passport</label>
+                        <div class="cols-sm-10">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
+                                <input type="text" ng-model="passport" class="form-control" name="passport" id="passport" placeholder="Enter your Passport" required/>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <a href="" target="_blank" type="submit" id="button" class="btn btn-primary btn-lg btn-block login-button" 
+                           ng-click="um.registerUser(userName, password, fullname, email, sex, passport)">Register</a>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+</body>

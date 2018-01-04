@@ -1,0 +1,334 @@
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\ApplicationInsights.config
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\csc.exe
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\csc.exe.config
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\csc.rsp
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\csi.exe
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\csi.rsp
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\System.AppContext.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\vbc.exe
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\vbc.exe.config
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\vbc.rsp
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\VBCSCompiler.exe
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\ApiCarRent.dll.config
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\ApiCarRent.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\ApiCarRent.pdb
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Antlr3.Runtime.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\BOLCarRent.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.Web.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Newtonsoft.Json.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Net.Http.Formatting.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Helpers.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Http.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Http.WebHost.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Mvc.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Optimization.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Razor.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.WebPages.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.WebPages.Razor.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\WebGrease.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\BOLCarRent.pdb
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Newtonsoft.Json.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Net.Http.Formatting.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Helpers.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Http.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Http.WebHost.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Mvc.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Optimization.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.Razor.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.WebPages.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\System.Web.WebPages.Razor.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Antlr3.Runtime.pdb
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\bin\Microsoft.AI.Web.xml
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\obj\Debug\ApiCarRent.csprojResolveAssemblyReference.cache
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\obj\Debug\ApiCarRent.dll
+c:\Users\Pavel\documents\visual studio 2017\Projects\CarRent\ApiCarRent\obj\Debug\ApiCarRent.pdb
+H:\onWork\CarRent\ApiCarRent\bin\ApplicationInsights.config
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\csc.exe
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\csc.exe.config
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\csc.rsp
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\csi.exe
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\csi.rsp
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\System.AppContext.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\System.Collections.Immutable.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\System.IO.FileSystem.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\System.Reflection.Metadata.dll
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\vbc.exe
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\vbc.exe.config
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\vbc.rsp
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\VBCSCompiler.exe
+H:\onWork\CarRent\ApiCarRent\bin\roslyn\VBCSCompiler.exe.config
+H:\onWork\CarRent\ApiCarRent\bin\ApiCarRent.dll.config
+H:\onWork\CarRent\ApiCarRent\bin\ApiCarRent.dll
+H:\onWork\CarRent\ApiCarRent\bin\ApiCarRent.pdb
+H:\onWork\CarRent\ApiCarRent\bin\Antlr3.Runtime.dll
+H:\onWork\CarRent\ApiCarRent\bin\BOLCarRent.dll
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.Agent.Intercept.dll
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.DependencyCollector.dll
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.Web.dll
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.WindowsServer.dll
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.ApplicationInsights.dll
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.Web.Infrastructure.dll
+H:\onWork\CarRent\ApiCarRent\bin\Newtonsoft.Json.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Net.Http.Formatting.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Helpers.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Http.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Http.WebHost.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Mvc.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Optimization.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Razor.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.WebPages.Deployment.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.WebPages.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.WebPages.Razor.dll
+H:\onWork\CarRent\ApiCarRent\bin\WebGrease.dll
+H:\onWork\CarRent\ApiCarRent\bin\BOLCarRent.pdb
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\onWork\CarRent\ApiCarRent\bin\Newtonsoft.Json.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Net.Http.Formatting.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Helpers.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Http.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Http.WebHost.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Mvc.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Optimization.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Razor.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.WebPages.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.WebPages.Deployment.xml
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.WebPages.Razor.xml
+H:\onWork\CarRent\ApiCarRent\bin\Antlr3.Runtime.pdb
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.ApplicationInsights.xml
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.DependencyCollector.xml
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.WindowsServer.xml
+H:\onWork\CarRent\ApiCarRent\bin\Microsoft.AI.Web.xml
+H:\onWork\CarRent\ApiCarRent\obj\Debug\ApiCarRent.csprojResolveAssemblyReference.cache
+H:\onWork\CarRent\ApiCarRent\obj\Debug\ApiCarRent.dll
+H:\onWork\CarRent\ApiCarRent\obj\Debug\ApiCarRent.pdb
+H:\onWork\CarRent\ApiCarRent\bin\DBCarRent.dll
+H:\onWork\CarRent\ApiCarRent\bin\EntityFramework.dll
+H:\onWork\CarRent\ApiCarRent\bin\DBCarRent.pdb
+H:\onWork\CarRent\ApiCarRent\bin\DBCarRent.dll.config
+H:\onWork\CarRent\ApiCarRent\bin\EntityFramework.xml
+H:\onWork\CarRent\ApiCarRent\bin\EntityFramework.SqlServer.dll
+H:\onWork\CarRent\ApiCarRent\bin\EntityFramework.SqlServer.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\ApplicationInsights.config
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csc.exe
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csc.exe.config
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csc.rsp
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csi.exe
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csi.rsp
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.AppContext.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\vbc.exe
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\vbc.exe.config
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\vbc.rsp
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\VBCSCompiler.exe
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\ApiCarRent.dll.config
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\ApiCarRent.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\ApiCarRent.pdb
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Antlr3.Runtime.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\BOLCarRent.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\EntityFramework.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\EntityFramework.SqlServer.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.Web.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Newtonsoft.Json.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Net.Http.Formatting.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Helpers.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.WebHost.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Mvc.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Optimization.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Razor.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.Razor.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\WebGrease.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\DBCarRent.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\BOLCarRent.pdb
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\EntityFramework.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\EntityFramework.SqlServer.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Newtonsoft.Json.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Net.Http.Formatting.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Helpers.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.WebHost.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Mvc.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Optimization.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Razor.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.Razor.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Antlr3.Runtime.pdb
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.Web.xml
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\DBCarRent.pdb
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\DBCarRent.dll.config
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\obj\Debug\ApiCarRent.csprojResolveAssemblyReference.cache
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\obj\Debug\ApiCarRent.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\obj\Debug\ApiCarRent.pdb
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Cors.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.Cors.dll
+C:\Users\pavel\Desktop\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.Cors.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\ApplicationInsights.config
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csc.exe
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csc.exe.config
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csc.rsp
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csi.exe
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\csi.rsp
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.AppContext.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.Collections.Immutable.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.IO.FileSystem.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\System.Reflection.Metadata.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\vbc.exe
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\vbc.exe.config
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\vbc.rsp
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\VBCSCompiler.exe
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\roslyn\VBCSCompiler.exe.config
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\DataCarRent.mdf
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\DataCarRent_log.ldf
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\ApiCarRent.dll.config
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\ApiCarRent.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\ApiCarRent.pdb
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Antlr3.Runtime.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\BOLCarRent.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\EntityFramework.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\EntityFramework.SqlServer.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.Agent.Intercept.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.DependencyCollector.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.Web.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.WindowsServer.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.ApplicationInsights.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.Web.Infrastructure.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Newtonsoft.Json.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Net.Http.Formatting.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Cors.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Helpers.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.Cors.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.WebHost.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Mvc.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Optimization.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Razor.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.Deployment.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.Razor.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\WebGrease.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\DBCarRent.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\BOLCarRent.pdb
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\EntityFramework.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\EntityFramework.SqlServer.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.Cors.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Newtonsoft.Json.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Net.Http.Formatting.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Helpers.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Http.WebHost.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Mvc.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Optimization.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.Razor.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.Deployment.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\System.Web.WebPages.Razor.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Antlr3.Runtime.pdb
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.ApplicationInsights.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.DependencyCollector.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.WindowsServer.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\Microsoft.AI.Web.xml
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\DBCarRent.pdb
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\bin\DBCarRent.dll.config
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\obj\Debug\ApiCarRent.csprojResolveAssemblyReference.cache
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\obj\Debug\ApiCarRent.dll
+H:\onWork\CarRent_1.6\CarRent\ApiCarRent\obj\Debug\ApiCarRent.pdb
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Cors.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Http.Cors.dll
+H:\onWork\CarRent\ApiCarRent\bin\System.Web.Http.Cors.xml
+H:\onWork\CarRent\ApiCarRent\bin\DataCarRent.mdf
+H:\onWork\CarRent\ApiCarRent\bin\DataCarRent_log.ldf

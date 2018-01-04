@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiCarRent",
+    "\\ApiCarRent\\App_Start",
+    "\\ApiCarRent\\Controllers",
+    "\\BOLCarRent",
+    "\\BOLCarRent\\Car",
+    "\\BOLCarRent\\ViewModels",
+    "\\CarRent",
+    "\\CarRent\\services",
+    "\\CarRent\\services\\cars",
+    "\\DBCarRent"
+  ],
+  "SelectedNode": "\\CarRent\\controllers\\folder1\\testController.js",
+  "PreviewInSolutionExplorer": false
+}

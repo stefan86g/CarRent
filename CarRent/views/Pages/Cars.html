@@ -1,0 +1,186 @@
+﻿
+<head>
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link href="Styles/ManagerStyle.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+    
+    
+
+        <div id="cars" data-ng-init="vm.getCars()">
+            <div id="flex_element">
+                <div class="content_elements" id="left">
+                    <div id="manager_content" class="table table-responsive">
+
+                       
+                        <table>
+                            <thead class="thead-inverse">
+                                <tr>
+
+                                    <th>
+                                        Photo
+                                    </th>
+                                    <th>
+                                        Model
+                                    </th>
+                                    <th>
+                                        Price
+                                    </th>
+                                    <th>
+                                        Overdue
+                                    </th>
+                                    <th>
+                                        Availability
+                                    </th>
+                                    <th>
+                                        Year
+                                    </th>
+                                    <th>
+                                        Gearbox
+                                    </th>
+                                    <th>
+                                        Mileage
+                                    </th>
+                                    <th>
+                                        Car Number
+                                    </th>
+                                    <th>
+                                        Branch
+                                    </th>
+                                    <th>
+                                        Options
+
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="table-adres-row" id="carslist" ng-repeat="s in vm.cars | filter:searchBox">
+
+                                    <td>
+                                        <img src="{{s.Photo}}" alt="No Image" id="Carimg">
+
+                                    </td>
+                                    <td>
+                                        {{s.Model}}
+                                    </td>
+                                    <td>
+                                        {{s.PricePerDay}}
+                                    </td>
+                                    <td>
+                                        {{s.CostOfDayOverdue}}
+                                    </td>
+                                    <td>
+                                        {{s.Availability}}
+                                    </td>
+                                    <td>
+                                        {{s.Year}}
+                                    </td>
+                                    <td>
+                                        {{s.GearBox}}
+                                    </td>
+                                    <td>
+                                        {{s.Mileage}}
+                                    </td>
+                                    <td>
+                                        {{s.CarNumber}}
+                                    </td>
+                                    <td>
+                                        {{s.Branch}}
+                                    </td>
+                                    <td>
+                                        <input type="button" id="btnUp" class="btn btn-info" value="Update" ng-click="getTable(s.Photo, s.Model, s.PricePerDay, s.CostOfDayOverdue, s.Availability, s.Year, s.GearBox, s.Mileage, s.CarNumber, s.Branch)" />
+
+                                        <input type="button" id="BtnDel" class="btn btn-danger" value="Delete" ng-click="vm.deleteCar(s.CarNumber)" />
+
+
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="content_elements" id="right">
+
+                    <div class="input-group" id="search">
+                        <span class="input-group-addon" id="searchspan">Search Car: </span>
+                        <input type="text" class="form-control" ng-model="searchBox">
+                    </div>
+
+                    <div id="addForm">
+                        <form class="form-horizontal">
+
+
+                            <div class="input-group">
+                                <span class="input-group-addon">Photo</span>
+                                <input type="text" class="form-control" ng-model="photo" placeholder="">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">Model</span>
+                                <input type="Text" class="form-control" ng-model="model" placeholder="">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">Price</span>
+                                <input type="text" class="form-control" ng-model="pricePerDay" placeholder="" pattern="^[ 0-9]+$">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">Overdue</span>
+
+                                <input type="text" class="form-control" ng-model="costOfDayOverdue" placeholder="" pattern="^[ 0-9]+$">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">Availability</span>
+                                
+                                <select ng-model="availability" class="form-control">
+                                    <option>Available</option>
+                                    <option>Not Available</option>
+                                </select>
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">Year</span>
+                                <input type="text" class="form-control" ng-model="year" placeholder="" pattern="^[ 0-9]+$">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">GearBox</span>
+                                <input type="text" class="form-control" ng-model="gearBox" placeholder="">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">Mileage</span>
+                                <input type="text" class="form-control" ng-model="mileage" placeholder="" pattern="^[ 0-9]+$">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">Car Number</span>
+                                <input type="text" class="form-control" ng-model="carNumber" placeholder="">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">Branch</span>
+                                <input type="text" class="form-control" ng-model="branch" placeholder="">
+                            </div>
+
+
+
+                            <button type="submit" id="btnAdd" class="btn btn-primary" ng-click="vm.addCar(photo, model, pricePerDay, costOfDayOverdue, availability, year, gearBox, mileage, carNumber, branch)">Add new Car</button>
+                            <button type="submit" id="btnConf" class="btn btn-primary" ng-click="vm.updateCar(photo, model, pricePerDay, costOfDayOverdue, availability, year, gearBox, mileage, carNumber, branch)">Confirm Update</button>
+
+                        </form>
+                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+
+
+   
+    
+
+</body>
+
+
+
+
+
+   
+
+  

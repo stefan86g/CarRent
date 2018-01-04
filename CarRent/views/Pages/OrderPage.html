@@ -1,0 +1,175 @@
+﻿
+<head>
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link href="Styles/ManagerStyle.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+
+
+
+    <div id="cars" data-ng-init="vm.getAvailableCars()">
+        <div id="flex_element">
+            <div class="content_elements" id="left">
+
+                <div class="input-group" id="ordersearch">
+                    <span class="input-group-addon">Search Car: </span>
+                    <input type="text" class="form-control" ng-model="searchBox">
+                </div>
+                <div id="manager_content" class="table table-responsive">
+
+                   
+                    <table>
+                        <thead class="thead-inverse">
+                            <tr>
+
+                                <th>
+                                    Photo
+                                </th>
+                                <th>
+                                    Model
+                                </th>
+                                <th>
+                                    Price $
+                                </th>
+                                <th>
+                                    Overdue $
+                                </th>
+                                <th>
+                                    Availability
+                                </th>
+                                <th>
+                                    Year
+                                </th>
+                                <th>
+                                    Gearbox
+                                </th>
+                                <th>
+                                    Mileage
+                                </th>
+                                <th>
+                                    Car Number
+                                </th>
+                                <th>
+                                    Branch
+                                </th>
+                                <th>
+                                    Options
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="table-adres-row" id="carslist" ng-repeat="s in vm.cars | filter:searchBox">
+
+                                <td>
+                                    <img src="{{s.Photo}}" alt="No Image" id="Carimg">
+
+                                </td>
+                                <td>
+                                    {{s.Model}}
+                                </td>
+                                <td>
+                                    {{s.PricePerDay}}
+                                </td>
+                                <td>
+                                    {{s.CostOfDayOverdue}} 
+                                </td>
+                                <td>
+                                    {{s.Availability}}
+                                </td>
+                                <td>
+                                    {{s.Year}}
+                                </td>
+                                <td>
+                                    {{s.GearBox}}
+                                </td>
+                                <td>
+                                    {{s.Mileage}}
+                                </td>
+                                <td>
+                                    {{s.CarNumber}}
+                                </td>
+                                <td>
+                                    {{s.Branch}}
+                                </td>
+                                <td>
+
+                                    <!-- Trigger the modal with a button -->
+                                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal" ng-click="getOrder(s.PricePerDay,s.CostOfDayOverdue,s.Branch,s.CarNumber)">Order</button>
+                                    <!--<input type="button" id="btnUp" class="btn btn-info" value="Update" ng-click="vm.rentCar(s.CarNumber)" />-->
+
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                   
+
+                    <!-- Modal -->
+                    <div id="myModal" class="modal fade" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Modal content-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">Confirm Order</h4>
+                                </div>
+                                <div class="modal-body">
+
+                                    <form class="form-horizontal">
+                                        <div class="input-group">
+                                            <span class="input-group-addon">Choose Date</span>
+                                            <input type="date" ng-model="startDate" id="datepicker1" />
+                                            <input type="date" ng-model="endDate" id="datepicker2" />
+                                        </div>
+                                        <div class="input-group">
+                                            <span class="input-group-addon">Price for Day</span>
+                                            <input type="text" class="form-control" ng-model="pricePerDay+'$'" disabled>
+                                        </div>
+                                        <div class="input-group">
+                                            <span class="input-group-addon">Each day of delay </span>
+                                            <input type="text" class="form-control" ng-model="costOfDayOverdue+'$'" disabled>
+                                        </div>
+                                        <div class="input-group">
+                                            <span class="input-group-addon">Branch</span>
+                                            <input type="text" class="form-control" ng-model="branch" disabled>
+                                        </div>
+                                        <div class="input-group">
+                                            <span class="input-group-addon">Car Number</span>
+                                            <input type="text" class="form-control" ng-model="carNumber" disabled>
+                                        </div>
+
+                                        <h3> Total Rental Days:  {{vm.calcDays(startDate,endDate)}} </h3>
+                                        <h3> Total Price:  {{vm.calcTotalPrice(vm.calcDays(startDate,endDate),pricePerDay)}}$ </h3>
+
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                            <input type="button" id="btnUp" class="btn btn-info" value="Confirm" data-dismiss="modal" ng-click="vm.rentCar(carNumber)" />
+                                        </div>
+                                </form>
+                            </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+          
+
+            </div>
+        </div>
+   
+
+  
+
+</body>
+
+
+
+
+
+
+

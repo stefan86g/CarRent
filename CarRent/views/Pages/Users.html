@@ -1,0 +1,150 @@
+﻿
+<head>
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link href="Styles/ManagerStyle.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+
+
+        <div id="users"  data-ng-init="um.getUsers()" >
+            <div id="flex_element">
+                <div class="content_elements" id="left">
+                    <div id="manager_content" class="table table-responsive">
+                        <table>
+                            <thead class="thead-inverse">
+                                <tr>
+
+                                    <th>
+                                        UserName
+                                    </th>
+                                    <th>
+                                        Password
+                                    </th>
+                                    <th>
+                                        FullName
+                                    </th>
+                                    <th>
+                                        Email
+                                    </th>
+                                    <th>
+                                        Sex
+                                    </th>
+                                    <th>
+                                        Passport
+                                    </th>
+                                    <th>
+                                       Admin Status
+                                    </th>
+                                    <th>
+                                        Options
+                                        
+                                    </th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="table-adres-row" id="userlist" ng-repeat="u in um.users">
+
+                                    <td>
+                                        {{u.UserName}}
+
+                                    </td>
+                                    <td>
+                                        {{u.Password}}
+                                    </td>
+                                    <td>
+                                        {{u.FullName}}
+                                    </td>
+                                    <td>
+                                        {{u.Email}}
+                                    </td>
+                                    <td>
+                                        {{u.Sex}}
+                                    </td>
+                                    <td>
+                                        {{u.Passport}}
+                                    </td>
+                                    <td>
+                                        {{u.IsAdmin}}
+                                    </td>
+
+                                    <td>
+                                        <input type="button" id="btnUp" class="btn btn-info" value="Update" ng-click="getUserparam(u.UserName, u.Password, u.FullName, u.Email, u.Sex, u.Passport, u.IsAdmin)" />
+
+                                        <input type="button" id="BtnDel" class="btn btn-danger" value="Delete" ng-click="um.deleteUser(u.Email)" />
+
+
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="content_elements" id="right">
+
+                    <div id="addForm">
+                        <form class="form-horizontal">
+
+
+                            <div class="input-group">
+                                <span class="input-group-addon">username</span>
+                                <input type="text" class="form-control" ng-model="userName" placeholder="">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">password</span>
+                                <input type="Text" class="form-control" ng-model="password" placeholder="" required>
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">fullname</span>
+                                <input type="text" class="form-control" ng-model="fullname" placeholder="">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">email</span>
+
+                                <input type="text" class="form-control" ng-model="email" placeholder="" required>
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">sex</span>
+                                <select ng-model="sex" class="form-control">
+                                    <option>Male</option>
+                                    <option>Female</option>
+                                </select>
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">passport</span>
+                                <input type="text" class="form-control" ng-model="passport" placeholder="">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">Role</span>
+                                <select ng-model="isadmin" class="form-control" required>
+                                    <option>Admin</option>
+                                    <option>User</option>
+                                </select>
+                            </div>
+
+
+
+                            <button type="submit" id="btnAdd" class="btn btn-primary" ng-click="um.addNewUser(userName, password, fullname, email, sex, passport,isadmin)">Add new User</button>
+                            <button type="submit" id="btnConf" class="btn btn-primary" ng-click="um.updateUser(userName, password, fullname, email, sex, passport,isadmin)">Confirm Update</button>
+
+                        </form>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+  
+
+
+</body>
+
+
+
+
+
+
+
