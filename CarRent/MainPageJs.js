@@ -12,7 +12,6 @@ function initMap() {
     ];
 
     function func() {
-<<<<<<< HEAD
 
         map = new google.maps.Map(document.getElementById('map'), {
             zoom: 8,
@@ -40,35 +39,7 @@ function initMap() {
       
     }
 
-=======
 
-        map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 8,
-            center: new google.maps.LatLng(32.064030, 34.786602),
-            mapTypeId: google.maps.MapTypeId.ROADMAP
-        });
-
-        var infowindow = new google.maps.InfoWindow();
-
-        var marker, i;
-
-        for (i = 0; i < locations.length; i++) {
-            marker = new google.maps.Marker({
-                position: new google.maps.LatLng(locations[i][1], locations[i][2]),
-                map: map
-            });
-
-            google.maps.event.addListener(marker, 'click', (function (marker, i) {
-                return function () {
-                    infowindow.setContent(locations[i][0]);
-                    infowindow.open(map, marker);
-                }
-            })(marker, i));
-        }
-      
-    }
-
->>>>>>> 3a06b9421eed182e7614662d5ff3c11c452228cc
     setTimeout(func, 1000);
   
 }
